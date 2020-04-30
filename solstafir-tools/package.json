@@ -1,0 +1,8 @@
+{
+  "name": "tools",
+  "version": "0.1.0",
+  "description": "Solstafir React Tools",
+  "main": "index.ts",
+  "author": "Jovica Markoski",
+  "license": "MIT"
+}

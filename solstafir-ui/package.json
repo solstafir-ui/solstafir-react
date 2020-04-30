@@ -1,0 +1,8 @@
+{
+  "name": "react",
+  "version": "0.1.0",
+  "description": "Solstafir Design System React UI Components",
+  "main": "index.ts",
+  "author": "Jovica Markoski",
+  "license": "MIT"
+}
